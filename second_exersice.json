@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Akmaral",
+        "age": 23
+    },
+    {
+        "name": "Mustafa",
+        "age": null
+    },
+    {
+        "name": "Nurdin",
+        "age": 19
+    },
+    {
+        "name": "Hadidja",
+        "age": 15
+    },
+    {
+        "name": "Dias",
+        "age": 15
+    },
+    {
+        "name": "Nurzada",
+        "age": 25
+    },
+    {
+        "name": "Manas",
+        "age": 21
+    },
+    {
+        "name": "Saiat",
+        "age": 23
+    },
+    {
+        "name": "Rustam",
+        "age": 16
+    },
+    {
+        "name": "Kamila",
+        "age": 18
+    }
+]

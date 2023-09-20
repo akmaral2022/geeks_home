@@ -1,0 +1,54 @@
+body {
+  height: 100vh;
+  background: #000;
+  background-image: url(../img/back.jpg);
+  background-size: cover;
+}
+
+img {
+  width: 150px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: #000;
+  border: 2px solid #0b757b;
+  padding: 20px;
+  width: 1240px;
+  margin: auto;
+  opacity: 0.95;
+}
+
+.person__card {
+  background-color: #000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  border: 2px solid #0b757b;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px;
+  color: #0b757b;
+  transition-duration: 1s;
+  transition-property: all;
+}
+
+.person__card:hover {
+  width: 250px;
+  box-shadow: 4px 4px 10px #fff;
+}
+.person__card:hover img {
+  transition-duration: 1s;
+  width: 200px;
+  height: 200px;
+}
+
+.person__card h3 {
+  color: #0b757b;
+}

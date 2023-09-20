@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(#6c909b, #313161);
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
+
+.person__card {
+  background: linear-gradient(320deg, #898989, #ffffff);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 300px;
+  padding: 15px;
+  margin: 10px;
+}

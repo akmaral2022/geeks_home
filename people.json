@@ -1,0 +1,52 @@
+[
+    {
+        "img": "https://i.pinimg.com/564x/a3/2a/8a/a32a8ac89c51ccc0325f077918f6ce2c.jpg",
+        "name": "Сайтама",
+        "age": 25
+    },
+    {
+        "img": "https://pm1.aminoapps.com/6453/20045cd517865e8941581eab53c016477edede79_00.jpg",
+        "name": "Генос",
+        "age": 19
+    },
+    {
+        "img": "https://i.pinimg.com/564x/8b/2b/36/8b2b360d9198655e21f575da440acc6c.jpg",
+        "name": "Бэнг",
+        "age": 81
+    },
+    {
+        "img": "https://i.pinimg.com/564x/af/c7/29/afc72923064d855befcd9488950134dd.jpg",
+        "name": "King",
+        "age": 29
+    },
+    {
+        "img": "https://i.pinimg.com/564x/e5/c1/41/e5c141e5a6faac5e72d179ca913f27d0.jpg",
+        "name": "Фубуки",
+        "age": 23
+    },
+    {
+        "img": "https://i.pinimg.com/564x/3b/84/a0/3b84a000baa87e13ed34f6572fd8f6ba.jpg",
+        "name": "Тацумаки",
+        "age": 28
+    },
+    {
+        "img": "https://i.pinimg.com/736x/a2/ec/1c/a2ec1c909025cf1dae4a615263a3b9ad.jpg",
+        "name": "Камикадзе",
+        "age": 38
+    },
+    {
+        "img": "https://i.pinimg.com/564x/81/cd/80/81cd80247f299c88c15b089383bfe1a4.jpg",
+        "name": "Бэд",
+        "age": 17
+    },
+    {
+        "img": "https://i.pinimg.com/564x/84/d1/bf/84d1bf4afbd62a89a96ace69a6334d88.jpg",
+        "name": "Макс",
+        "age": 21
+    },
+    {
+        "img": "https://desu.shikimori.me/uploads/poster/characters/74167/main_2x-ac00aa8b29b44503a6d5e158543cdbd5.webp",
+        "name": "Сверхзвуковой Соник",
+        "age": 25
+    }
+]
