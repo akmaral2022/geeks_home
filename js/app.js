@@ -22,7 +22,7 @@ function displayPeople(people) {
 
 
 const request = new XMLHttpRequest()  //создание запроса
-request.open("GET", "people.json") //open() принимает два парамета: 1) метод запроса, 2)адрес запроса
+request.open("GET", "../../data/people.json") //open() принимает два парамета: 1) метод запроса, 2)адрес запроса
 request.setRequestHeader("Content-type", "application/json")  //указываение заголовка
 request.send()
 request.addEventListener('load', () => {
@@ -33,7 +33,7 @@ request.addEventListener('load', () => {
 
 //2 задание
 const showOnConsole = new XMLHttpRequest()
-showOnConsole.open("GET", "second_exersice.json")
+showOnConsole.open("GET", "data/second_exersice.json")
 showOnConsole.setRequestHeader("Content-type", "application/json")
 showOnConsole.send()
 showOnConsole.addEventListener('load', () => {
